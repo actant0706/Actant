@@ -1,0 +1,12 @@
+dist/*/
+__pycache__/
+*.pyc
+.actant/
+.agents/
+.learnings/
+plans/
+private/
+maintainer_tests/
+actant-release.cmd
+.git.bak/
+CHANGELOG-v0*.md

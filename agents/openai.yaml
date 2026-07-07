@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant"
+  short_description: "Human-gated Actant runs with JSON gates and scoped memory."
+  default_prompt: "Use $actant to start or continue a persisted human-gated Actant run."
+
+policy:
+  allow_implicit_invocation: true

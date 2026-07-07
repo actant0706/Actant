@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant Check"
+  short_description: "Verify Actant changes with direct evidence or explicit gaps."
+  default_prompt: "Use $actant-check to verify this Actant implementation target."
+
+policy:
+  allow_implicit_invocation: false

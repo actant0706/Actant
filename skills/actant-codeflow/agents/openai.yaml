@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant Codeflow"
+  short_description: "Implement approved Actant slices with no silent fallbacks."
+  default_prompt: "Use $actant-codeflow to implement the approved Actant slice."
+
+policy:
+  allow_implicit_invocation: false

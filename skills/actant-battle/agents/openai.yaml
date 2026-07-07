@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant Battle"
+  short_description: "Stress-test Actant plans and record a gate verdict."
+  default_prompt: "Use $actant-battle to challenge this Actant plan and give a verdict."
+
+policy:
+  allow_implicit_invocation: false

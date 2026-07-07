@@ -1,0 +1,70 @@
+{
+  "schema_version": 5,
+  "spec": {
+    "status": "pending",
+    "trigger": "none",
+    "context_selected": false,
+    "spec_delta_required": false,
+    "spec_delta_applied": false,
+    "promotion_approved": false,
+    "promotion_approval_ref": null,
+    "na_reason": null
+  },
+  "task": {
+    "status": "pending",
+    "task_plan_ready": false,
+    "active_task_id": null,
+    "acceptance_defined": false,
+    "prd_required": false,
+    "prd_ref": null,
+    "spec_refs": [],
+    "one_task_per_run": true
+  },
+  "workflow": {
+    "auto_chain_allowed": false,
+    "next_explicit_action": null
+  },
+  "planning": {
+    "status": "pending",
+    "evidence_refs": [],
+    "has_falsifiable_objective": false,
+    "has_hypothesis_or_na_reason": false,
+    "has_baseline": false,
+    "has_evidence_plan": false,
+    "verification_strategy_defined": false,
+    "minimum_evidence_defined": false
+  },
+  "battle": {
+    "status": "pending",
+    "evidence_refs": [],
+    "verdict": null,
+    "requires_plan_update": false,
+    "plan_update_applied": false
+  },
+  "codeflow": {
+    "status": "pending",
+    "evidence_refs": [],
+    "rot_gate": "pending",
+    "simplifier": "pending",
+    "simplifier_not_applicable_reason": null,
+    "fallback_audit": "pending"
+  },
+  "check": {
+    "status": "pending",
+    "evidence_refs": [],
+    "result": null,
+    "has_direct_evidence": false,
+    "strategy_followed": false,
+    "evidence_sufficient_for_claim": false,
+    "validation_not_run_reason": null
+  },
+  "evolution": {
+    "status": "pending",
+    "evidence_refs": [],
+    "done_decision": null,
+    "promotion_approved": false,
+    "promotion_approved_by": null,
+    "bridge_note": null,
+    "failure_label": null
+  }
+}

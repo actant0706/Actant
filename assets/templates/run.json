@@ -1,0 +1,27 @@
+{
+  "run_id": "A-YYYYMMDD-HHMMSS-slug",
+  "objective": "",
+  "activation_mode": "explicit-run",
+  "scope": "project",
+  "current_memory_policy": "promote",
+  "stage": "planning",
+  "next_recommended_stage": "battle",
+  "next_recommended_action": "$actant-battle --run",
+  "stage_summary": "Planning is active; prepare plan artifacts before battle.",
+  "created_at": "",
+  "updated_at": "",
+  "parent_run_id": null,
+  "model_version_id": null,
+  "hypothesis_id": null,
+  "artifact_refs": {
+    "proposal": null,
+    "requirements_delta": null,
+    "tasks": null,
+    "plan": null,
+    "battle": null,
+    "change_record": null,
+    "check_report": null,
+    "evolution": null
+  },
+  "fallback_audit_ref": "fallback-audit.json"
+}

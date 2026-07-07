@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "active_task_id": "T-001",
+  "multi_task_reason": null,
+  "tasks": [
+    {
+      "id": "T-001",
+      "title": "Implement approved Actant slice",
+      "status": "ready",
+      "depends_on": [],
+      "change_budget": "single-concern",
+      "prd_ref": null,
+      "spec_refs": [],
+      "acceptance": [
+        "Validation command reports the task acceptance boundary as satisfied"
+      ],
+      "evidence": [
+        "actant task validate command passes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant Evolution"
+  short_description: "Decide Actant completion and evidence-backed memory promotion."
+  default_prompt: "Use $actant-evolution to decide whether this Actant run is done or carried forward."
+
+policy:
+  allow_implicit_invocation: false

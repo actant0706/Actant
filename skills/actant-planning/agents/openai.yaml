@@ -1,0 +1,7 @@
+interface:
+  display_name: "Actant Planning"
+  short_description: "Create falsifiable Actant plans without auto-chaining."
+  default_prompt: "Use $actant-planning to turn this idea into a falsifiable Actant plan."
+
+policy:
+  allow_implicit_invocation: false

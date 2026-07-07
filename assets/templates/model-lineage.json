@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "entries": [
+    {
+      "model_version_id": "MV-000",
+      "parent_version_id": null,
+      "hypothesis_id": null,
+      "run_id": null,
+      "purpose": "",
+      "base_model_or_checkpoint": "",
+      "architecture": "",
+      "code_ref": "",
+      "config_refs": [],
+      "dataset_split_refs": [],
+      "checkpoint_refs": [],
+      "eval_refs": [],
+      "metrics_refs": [],
+      "status": "draft",
+      "promotion_reason": "",
+      "notes": ""
+    }
+  ]
+}
