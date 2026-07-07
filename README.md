@@ -1,5 +1,9 @@
 # Actant
-![Actant logo](logo.png)
+<div align="center">
+    <img src="logo.png" alt="Actant logo" width="200">
+</div>
+
+
 Actant is a human-gated harness for AI engineering and research workflows, with explicit planning, adversarial review, codeflow execution, verification, and repo-local memory decisions.
 
 `v0.6` is an alpha release. The current CLI is tested on Windows, and future releases will support more platforms.
